@@ -1,2 +1,2 @@
-Hello, Im a beginner in the IT area, this repo will prove my skills as a noob learner. Therefore, this will not be as good as it should, but at least Im training myself and work hard to improve myself.
+Hello, Im a beginner in the IT area, this repo will prove my skills as a noob learner. Therefore, this will not be as good as it should, but at least Im training myself and work hard to improve.
 Greetings. Vicenttto.
